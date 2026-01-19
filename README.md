@@ -43,7 +43,7 @@ This application aims to **increase student engagement** and improve awareness o
 
 * **Firebase Authentication** – user login & signup
 * **Firebase Cloud Firestore** – event data storage
-* **Firebase Cloud Messaging (FCM)** – push notifications
+
 
 ### Platforms Supported
 
