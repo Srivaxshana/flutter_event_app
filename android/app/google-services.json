@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "410962364280",
+    "project_id": "campus-event-app-98af3",
+    "storage_bucket": "campus-event-app-98af3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410962364280:android:b4ae5f345f64f5b4cf6a8d",
+        "android_client_info": {
+          "package_name": "com.campus.events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410962364280-8siarstuj94d0f4fdmr1fbdei1vq43j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoUthYbtugSwqe1cFBGOm4b1twmJ47y4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410962364280-8siarstuj94d0f4fdmr1fbdei1vq43j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410962364280:android:74ab76f5403a47accf6a8d",
+        "android_client_info": {
+          "package_name": "com.example.campus_event_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410962364280-8siarstuj94d0f4fdmr1fbdei1vq43j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoUthYbtugSwqe1cFBGOm4b1twmJ47y4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410962364280-8siarstuj94d0f4fdmr1fbdei1vq43j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
